@@ -8,16 +8,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Elijah Shiffer's First CS193 Homework
+
+- I like learning how to code.
+- I like the professors.
+- I enjoy learning more about computer science as a whole.
+
 ```markdown
 Syntax highlighted code block
 
-# Elijah Shiffer's First CS193 Homework
+# Header 1
 ## Header 2
 ### Header 3
 
-- I get to learn how to code.
-- The professors seem super nice.
-- Hopefully the class will be fun.
+- Bulleted
+- List
 
 1. Numbered
 2. List
